@@ -1,0 +1,8 @@
+{
+  "database": "gtme",
+  "schema": "public",
+  "user": "gtme",
+  "host": "tmaws-dev-postgres-mobility-rds.cmditfh3waie.ap-south-1.rds.amazonaws.com",
+  "port": "5432",
+  "passw": "gtme$321"
+}
